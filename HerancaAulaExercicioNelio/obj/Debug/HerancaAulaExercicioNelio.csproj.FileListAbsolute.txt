@@ -1,0 +1,8 @@
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\bin\Debug\HerancaAulaExercicioNelio.exe.config
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\bin\Debug\HerancaAulaExercicioNelio.exe
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\bin\Debug\HerancaAulaExercicioNelio.pdb
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\obj\Debug\HerancaAulaExercicioNelio.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\obj\Debug\HerancaAulaExercicioNelio.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\obj\Debug\HerancaAulaExercicioNelio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\obj\Debug\HerancaAulaExercicioNelio.exe
+C:\Users\gusta\source\repos\HerancaAulaExercicioNelio\HerancaAulaExercicioNelio\obj\Debug\HerancaAulaExercicioNelio.pdb
