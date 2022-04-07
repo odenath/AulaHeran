@@ -18,7 +18,11 @@ namespace HerancaAulaExercicioNelio
         {
             Loan = loan;
         }
-        
+        public override void Witdraw(double amount)
+        {
+            base.Witdraw(amount);
+            Balance -= 5;
+        }
         public void Loann(double amount)
         {
             if (amount <= Loan)
@@ -30,8 +34,9 @@ namespace HerancaAulaExercicioNelio
         
         public override string ToString()
         {
-            return Number+GetHolder()+Balance+Loan;
+            return "A sua conta " + Number + "Usuário" + GetHolder() + "Saldo/Balance" + Balance+"Limite de empréstimo"+Loan;
         }
+    }
 
 
 
@@ -40,4 +45,4 @@ namespace HerancaAulaExercicioNelio
 
 
     }
-}
+

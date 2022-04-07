@@ -32,7 +32,7 @@ namespace HerancaAulaExercicioNelio
             }
         public override string ToString()
         {
-            return Number + GetHolder() + Balance;
+            return "A sua conta " + Number + "Usuário" + GetHolder() + "Saldo/Balance" + Balance + "Limite de empréstimo" + interestRate;
         }
 
 

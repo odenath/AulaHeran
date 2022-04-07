@@ -9,14 +9,17 @@ namespace HerancaAulaExercicioNelio
     internal class Account
     {
         public int Number { get; set; }
-        public string Holder {  private get; set; }   
-        public  double Balance { get; protected set; }
+        public string Holder { private get; set; }
+        public double Balance { get; protected set; }
         //encapsulamento protected, apenas outras classes podem alterar o valor, mas o progam n
 
         public Account()
         {
 
         }
+        
+
+
 
         public Account(int number, string holder, double balance)
         {
@@ -48,7 +51,7 @@ namespace HerancaAulaExercicioNelio
         }
         public override string ToString()
         {
-            return base.ToString();
+            return "A sua conta "+Number+"Usuário"+GetHolder()+"Saldo/Balance"+Balance;
         }
 
     }
